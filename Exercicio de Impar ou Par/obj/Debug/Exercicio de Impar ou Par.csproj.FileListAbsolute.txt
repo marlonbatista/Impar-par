@@ -1,0 +1,6 @@
+C:\Users\marlo\Documents\Exericios do C#\Exercicio de Impar ou Par\Exercicio de Impar ou Par\bin\Debug\Exercicio de Impar ou Par.exe.config
+C:\Users\marlo\Documents\Exericios do C#\Exercicio de Impar ou Par\Exercicio de Impar ou Par\bin\Debug\Exercicio de Impar ou Par.exe
+C:\Users\marlo\Documents\Exericios do C#\Exercicio de Impar ou Par\Exercicio de Impar ou Par\bin\Debug\Exercicio de Impar ou Par.pdb
+C:\Users\marlo\Documents\Exericios do C#\Exercicio de Impar ou Par\Exercicio de Impar ou Par\obj\Debug\Exercicio de Impar ou Par.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Documents\Exericios do C#\Exercicio de Impar ou Par\Exercicio de Impar ou Par\obj\Debug\Exercicio de Impar ou Par.exe
+C:\Users\marlo\Documents\Exericios do C#\Exercicio de Impar ou Par\Exercicio de Impar ou Par\obj\Debug\Exercicio de Impar ou Par.pdb
